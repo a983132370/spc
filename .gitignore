@@ -1,0 +1,12 @@
+.idea/
+zuul/.mvn/
+user-service/.mvn/
+zuul/target/
+nacos/.mvn/
+user-service-inter/target/
+user-service-inter/user-service-inter.iml
+*.iml
+order-service/.gitignore
+nacos/.gitignore
+order-service/.mvn/
+user-service/.gitignore

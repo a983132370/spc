@@ -31,6 +31,7 @@
         <module>order-service</module>
         <module>user-service</module>
         <module>user-service-inter</module>
+        <module>spc-base</module>
     </modules>
     <dependencyManagement>
         <dependencies>
